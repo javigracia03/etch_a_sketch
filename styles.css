@@ -1,0 +1,21 @@
+#container {
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: repeat(16, 1fr);
+ 
+    width: 30em;
+    height:30em;
+    border: 1px solid black;
+      
+  }
+
+
+.pixel{
+  
+   /* background-color: black;*/
+   border: 1px solid black;
+
+}  
+
+
+  
