@@ -5,17 +5,22 @@
  
     width: 30em;
     height:30em;
-    border: 1px solid black;
+    /*border: 1px solid black;*/
       
   }
 
 
 .pixel{
   
-   /* background-color: black;*/
+   background-color: black;
    border: 1px solid black;
 
 }  
+
+.hovered{
+
+  background-color: aqua;
+}
 
 
   
